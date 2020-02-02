@@ -1,12 +1,7 @@
 ---
 title: "Homework 1 - You Can Be A Baseball Analytics Star Too!"
-output: 
-html_document: 
-    css: hw.css
-    theme: yeti
-    toc: true
-    toc_float: true
-    fig_caption: true
+output: html_document 
+
 ---
 
 ```{r setup, include=FALSE}
