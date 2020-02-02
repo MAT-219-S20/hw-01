@@ -162,4 +162,4 @@ Put the code in the empty code chunk below.
 
 __Extra Credit__: If you are really interested in making these plots, I challenge you to try and recreate the plot below about Pete Rose.
 
-![](img/pete_rose_pic.png)
+![](pete_rose_pic.png)
